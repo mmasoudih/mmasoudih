@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning new things about Vue.js 
 
-- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/-@mmasoudi79-000?&labelColor=4f8aff&logo=telegram&link=https://t.me/mmasoudi79)] || [Email](mailto:mohammad.masoudi59@gmail.com)
+- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/-@mmasoudi79-000?&labelColor=4f8aff&logo=telegram&link=https://t.me/mmasoudi79)] || [![Email](https://img.shields.io/badge/-Email-000?&labelColor=000&logo=gmail&link=mailto:mohammad.masoudi59@gmail.com)]
  
  <hr>
  
