@@ -3,7 +3,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working with [Vue.js](https://vuejs.org/)
  
-- 🌱 I’m currently learning new things about Vue.js 
+- 🌱 Always learning, and encountering new problems every day.
 
 - 📫 How to reach me: [![Telegram](https://img.shields.io/badge/-@mmasoudi79-000?&labelColor=000&logo=telegram&link=https://t.me/mmasoudi79)](https://t.me/mmasoudi79) || [![Email](https://img.shields.io/badge/-Email-000?&labelColor=000&logo=gmail&link=mailto:mohammad.masoudi59@gmail.com)](mailto:mohammad.masoudi59@gmail.com)
  
